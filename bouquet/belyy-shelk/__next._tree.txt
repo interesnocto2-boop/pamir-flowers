@@ -1,0 +1,8 @@
+:HL["/pamir-flowers/_next/static/chunks/0w5ti1pppb1er.css","style"]
+:HL["/pamir-flowers/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pamir-flowers/_next/static/media/45e8051ae1707a78-s.p.230_7mps2kip6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pamir-flowers/_next/static/media/65c558afe41e89d6-s.p.3jppgd0xzx-0d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pamir-flowers/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pamir-flowers/_next/static/media/d3fe2f289711ac3f-s.p.1l2zhvq5eocqf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pamir-flowers/_next/static/media/e4bf00cfb41b665c-s.p.2tvupc8zdsmt8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"bouquet","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"belyy-shelk","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"NLqkfCDfYeuiLGGzXdkv2"}
